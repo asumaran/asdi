@@ -1,0 +1,12 @@
+{
+  "name": "asumaran/asdi",
+  "authors": [
+    {
+      "name": "Alfredo Sumaran",
+      "email": "a.sumaran@gmail.com"
+    }
+  ],
+  "require": {
+    "php-di/php-di": "^7.0"
+  }
+}
